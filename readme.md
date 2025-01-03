@@ -41,13 +41,13 @@ This project is a simple Task Management Application built with **Next.js**. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/pintu544/TaskManagentUI.git](https://github.com/pintu544/TaskManagentUI)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd TaskManagentUI
    ```
 
 3. Install dependencies:
